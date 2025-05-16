@@ -2,7 +2,7 @@ cn = 10+67j
 # j = root of -1
 print(cn)
 
-name = "Pramod"
+name = "thachi"
 # 0,1,2,3,4,5# Bunch of chracters
 
 print(name)
